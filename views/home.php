@@ -119,8 +119,8 @@
             <div class="row row-cols-1 row-cols-md-3 g-4">
                 <div class="col">
                     <div class="card border-secondary mb-3">
-                        <a href=""><img src="img/html_css_avancado.png" class="card-img-top" id="HMTL/CSS avançado"
-                                title="HMTL/CSS avançado" alt="HMTL/CSS avançado"></a>
+                        <a href="?pagina=html_css_avancado"><img src="img/html_css_avancado.png" class="card-img-top"
+                                id="HMTL/CSS avançado" title="HMTL/CSS avançado" alt="HMTL/CSS avançado"></a>
                         <div class="card-body">
                             <h4 class="card-title text-center" style="font-family: Georgia;">HTML/CSS avançado:</h4>
                             <p class="card-text text-center">Ideal para você que já tem conhecimentos de

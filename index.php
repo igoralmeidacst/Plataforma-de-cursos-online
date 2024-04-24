@@ -36,6 +36,8 @@ if ($pagina == 'cursos') {
     include 'views/python_basico.php';
 } elseif ($pagina == 'js_basico') {
     include 'views/js_basico.php';
+} elseif ($pagina == 'html_css_avancado') {
+    include 'views/html_css_avancado.php';
 } else {
     include 'views/home.php';
 }
