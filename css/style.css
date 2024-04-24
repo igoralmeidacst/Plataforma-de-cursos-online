@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+    color: #f5ecd9;
+}
+
+header {
+    height: 110px;
+    padding: 20px 0;
+}
+
+/*Class*/
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+/*Id*/
+#conteudo {
+    padding: 50px 0;
+}
+
+#redesocial img {
+    color: #0d6efd;
+    float: right;
+    height: 40px;
+    width: 47px;
+    margin: 0px 4px;
+}
+
+#menu {
+    background-color: #ffffff;
+}
