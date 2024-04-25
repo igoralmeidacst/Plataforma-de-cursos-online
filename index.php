@@ -38,6 +38,14 @@ if ($pagina == 'cursos') {
     include 'views/js_basico.php';
 } elseif ($pagina == 'html_css_avancado') {
     include 'views/html_css_avancado.php';
+} elseif ($pagina == 'c_avancado') {
+    include 'views/c_avancado.php';
+} elseif ($pagina == 'mysql_avancado') {
+    include 'views/mysql_avancado.php';
+} elseif ($pagina == 'sql_basico_avancado') {
+    include 'views/sql_basico_avancado.php';
+} elseif ($pagina == 'manipulacao_php_mysql') {
+    include 'views/manipulacao_php_mysql.php';
 } else {
     include 'views/home.php';
 }

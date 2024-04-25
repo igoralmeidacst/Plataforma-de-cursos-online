@@ -48,7 +48,7 @@
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <a href="#" style="text-decoration:none; color: #000">
+                    <a href="?pagina=logica_programacao" style="text-decoration:none; color: #000">
                         <h5 class="card-title">Lógica de programação</h5>
                     </a>
                     <p class="card-text">Neste curso, você vai aprender os conceitos básicos da lógica de programação,
@@ -74,7 +74,8 @@
                     <a href="?pagina=php_basico"><img src="img/php_basico.png" class="card-img-top" id="PHP básico"
                             title="PHP básico" alt="PHP básico"></a>
                     <div class="card-body">
-                        <h4 class="card-title text-center" style="font-family: Georgia;">Curso PHP básico:</h4>
+                        <h4 class="card-title text-center" style="font-family: Georgia;"><a href="?pagina=php_basico"
+                                style="text-decoration: none; color: #212529;">Curso PHP básico:</a></h4>
                         <p class="card-text text-center">Para quem têm muita dificuldade em programação web e quer
                             criar seu primeiro site utilizando a linguagem PHP.
                         </p>
@@ -86,8 +87,9 @@
                     <a href="?pagina=python_basico"><img src="img/python_iniciante.png" class="card-img-top"
                             id="Python para iniciantes" title="Python para iniciantes" alt="Python para iniciantes"></a>
                     <div class="card-body">
-                        <h4 class="card-title text-center" style="font-family: Georgia;">Python para iniciantes:
-                        </h4>
+                        <h4 class="card-title text-center" style="font-family: Georgia;"><a href="?pagina=python_basico"
+                                style="text-decoration: none; color: #212529;">Python para iniciantes:
+                            </a></h4>
                         <p class="card-text text-center">Este curso é perfeito para você que nunca programou antes e
                             deseja
                             aprender a linguagem de programação Python.
@@ -100,7 +102,8 @@
                     <a href="?pagina=js_basico"><img src="img/iniciando_js.png" class="card-img-top"
                             id="Iniciando JavaScript" title="Iniciando JavaScript" alt="Iniciando JavaScript"></a>
                     <div class="card-body">
-                        <h4 class="card-title text-center" style="font-family: Georgia;">Iniciando no JavaScript:</h4>
+                        <h4 class="card-title text-center" style="font-family: Georgia;"><a href="?pagina=js_basico"
+                                style="text-decoration: none; color: #212529;">Iniciando no JavaScript:</a></h4>
                         <p class="card-text text-center">JavaScript, uma linguagem de programação poderosa,
                             que permite interatividade e dinamismo às páginas da web.
                         </p>
@@ -122,7 +125,10 @@
                         <a href="?pagina=html_css_avancado"><img src="img/html_css_avancado.png" class="card-img-top"
                                 id="HMTL/CSS avançado" title="HMTL/CSS avançado" alt="HMTL/CSS avançado"></a>
                         <div class="card-body">
-                            <h4 class="card-title text-center" style="font-family: Georgia;">HTML/CSS avançado:</h4>
+                            <h4 class="card-title text-center" style="font-family: Georgia;"><a
+                                    href="?pagina=html_css_avancado"
+                                    style="text-decoration: none; color: #212529;">HTML/CSS
+                                    avançado:</a></h4>
                             <p class="card-text text-center">Ideal para você que já tem conhecimentos de
                                 HTML e CSS e deseja conhecer novas técnicas para criar websites profissionais.
                             </p>
@@ -131,11 +137,13 @@
                 </div>
                 <div class="col">
                     <div class="card border-secondary mb-3">
-                        <a href="#"><img src="img/c_avancado.png" class="card-img-top" id="C# avançado"
+                        <a href="?pagina=c_avancado"><img src="img/c_avancado.png" class="card-img-top" id="C# avançado"
                                 title="C# avançado" alt="C# avançado"></a>
                         <div class="card-body">
-                            <h4 class="card-title text-center" style="font-family: Georgia;">C# avançado:
-                            </h4>
+                            <h4 class="card-title text-center" style="font-family: Georgia;"><a
+                                    href="?pagina=c_avancado" style="text-decoration: none; color: #212529;">C#
+                                    avançado:
+                                </a></h4>
                             <p class="card-text text-center">O curso em C# avançado é destinado para programadores que
                                 já
                                 dominam a linguagem e querem se aperfeiçoar.
@@ -145,10 +153,12 @@
                 </div>
                 <div class="col">
                     <div class="card border-secondary mb-3">
-                        <a href="#"><img src="img/mysql_avancado.png" class="card-img-top" id="MySql avançado"
-                                title="MySql avançado" alt="MySql avançado"></a>
+                        <a href="?pagina=mysql_avancado"><img src="img/mysql_avancado.png" class="card-img-top"
+                                id="MySql avançado" title="MySql avançado" alt="MySql avançado"></a>
                         <div class="card-body">
-                            <h4 class="card-title text-center" style="font-family: Georgia;">MySql avançado:</h4>
+                            <h4 class="card-title text-center" style="font-family: Georgia;"><a
+                                    href="?pagina=mysql_avancado" style="text-decoration: none; color: #212529;">MySql
+                                    avançado:</a></h4>
                             <p class="card-text text-center">Este curso é para profissionais que querem se aprimorar na
                                 linguagem de manipulação de dados mais popular.
                             </p>
@@ -166,13 +176,13 @@
             <div class="card mb-3" style="max-width: auto">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <a href="#"><img src="img/sql_bas_avan.png" class="img-fluid rounded-start"
-                                id="SQL do básico ao avançado" title="SQL do básico ao avançado"
-                                alt="SQL do básico ao avançado"></a>
+                        <a href="?pagina=sql_basico_avancado"><img src="img/sql_bas_avan.png"
+                                class="img-fluid rounded-start" id="SQL do básico ao avançado"
+                                title="SQL do básico ao avançado" alt="SQL do básico ao avançado"></a>
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <a href="#" style="text-decoration:none; color: #000">
+                            <a href="?pagina=sql_basico_avancado" style="text-decoration:none; color: #000">
                                 <h5 class="card-title">SQL do básico ao avançado</h5>
                             </a>
                             <p class="card-text">Este curso abrangente de SQL foi elaborado para
@@ -186,14 +196,14 @@
             <div class="card mb-3" style="max-width: auto">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <a href="#"><img src="img/php_mysql_bd.png" class="img-fluid rounded-start"
-                                id="Manipulando banco de dados com PHP e MySql"
+                        <a href="?pagina=manipulacao_php_mysql"><img src="img/php_mysql_bd.png"
+                                class="img-fluid rounded-start" id="Manipulando banco de dados com PHP e MySql"
                                 title="Manipulando banco de dados com PHP e MySql"
                                 alt="Manipulando banco de dados com PHP e MySql"></a>
                     </div>
                     <div class=" col-md-8">
                         <div class="card-body">
-                            <a href="#" style="text-decoration:none; color: #000">
+                            <a href="?pagina=manipulacao_php_mysql" style="text-decoration:none; color: #000">
                                 <h5 class="card-title">Manipulando banco de dados com PHP e MySql</h5>
                             </a>
                             <p class="card-text">Neste curso você terá a oportunidade de aprender as melhores praticas
